@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on works
 - 😄 Pronouns: no
-- ⚡ Fun fact: no fun fact í fun
+- ⚡ Fun fact: no fun fact is fun
 
 <!---
 quocpham1610/quocpham1610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
